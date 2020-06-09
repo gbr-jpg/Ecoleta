@@ -7,10 +7,15 @@
 </h1>
 
 ## 📍 Índice
+- [Instrutor](#-instrutor)
 - [Sobre](#-sobre)
 - [Tecnológias Utilizadas](#-tecnológias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Instrutor](#-instrutor)
+
+---
+
+## 👨‍🏫 Instrutor
+[Mayk Brito ](https://github.com/maykbrito)
 
 ---
 
@@ -48,11 +53,6 @@ O projeto foi desenvolvido com as seguintes tecnológias:
     $ yarn start
 
 ```
----
-
-## 👨‍🏫 Instrutor
-Mayk Brito
-
 ----
 
 Desenvolvido por Gabriel Ramos Nogueira
