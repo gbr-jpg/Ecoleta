@@ -10,6 +10,7 @@
 - [Sobre](#-sobre)
 - [Tecnológias Utilizadas](#-tecnológias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Instrutor](#-instrutor)
 
 ---
 
@@ -48,4 +49,10 @@ O projeto foi desenvolvido com as seguintes tecnológias:
 
 ```
 ---
+
+## 👨‍🏫 Instrutor
+Mayk Brito
+
+----
+
 Desenvolvido por Gabriel Ramos Nogueira
