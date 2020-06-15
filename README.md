@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/JUGN8jm00LwuqaHM2C/giphy.gif">
 </h1>
 
-##  Índice 📍
+## 📍 Índice 
 - [Instrutor](#-instrutor)
 - [Sobre](#-sobre)
 - [Tecnológias Utilizadas](#-tecnológias-utilizadas)
