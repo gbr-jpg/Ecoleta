@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/JUGN8jm00LwuqaHM2C/giphy.gif">
 </h1>
 
-## 📍 Índice
+##  Índice 📍
 - [Instrutor](#-instrutor)
 - [Sobre](#-sobre)
 - [Tecnológias Utilizadas](#-tecnológias-utilizadas)
@@ -14,18 +14,18 @@
 
 ---
 
-## 👨‍🏫 Instrutor
+##  Instrutor 👨‍🏫
 [Mayk Brito ](https://github.com/maykbrito)
 
 ---
 
-## 🔖 Sobre
+##  Sobre 🔖
 
 O **Ecoleta** é uma aplicação web de cadastro para centros de coletas. Foi desenvolvido com intuito de aprendizado durante a semana do **Next Level Week**, proprocionado pela RocketSeat. 
 
 ---
 
-## 💻 Tecnológias Utilizadas
+##  Tecnológias Utilizadas 💻
 
 O projeto foi desenvolvido com as seguintes tecnológias:
 - HTML
@@ -37,7 +37,7 @@ O projeto foi desenvolvido com as seguintes tecnológias:
 
 ---
 
-## 📦 Como baixar o projeto
+##  Como baixar o projeto 📦
 
 ```bash
     # Clonar repositório
