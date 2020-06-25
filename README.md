@@ -14,11 +14,6 @@
 
 ---
 
-##  👨‍🏫 Instrutor
-[Mayk Brito ](https://github.com/maykbrito)
-
----
-
 ##  ✉️ Sobre 
 
 O **Ecoleta** é uma aplicação web de cadastro para centros de coletas. Foi desenvolvido com intuito de aprendizado durante a semana do **Next Level Week**, proprocionado pela RocketSeat. 
@@ -53,3 +48,6 @@ O projeto foi desenvolvido com as seguintes tecnológias:
     $ yarn start
 
 ```
+---
+##  👨‍🏫 Instrutor
+[Mayk Brito ](https://github.com/maykbrito)
