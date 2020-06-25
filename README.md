@@ -7,10 +7,10 @@
 </h1>
 
 ## 📍 Índice 
-- [Instrutor](#-instrutor)
 - [Sobre](#-sobre)
 - [Tecnológias Utilizadas](#-tecnológias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
+- [Instrutor](#-instrutor)
 
 ---
 
