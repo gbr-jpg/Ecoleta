@@ -22,7 +22,7 @@ O **Ecoleta** é uma aplicação web de cadastro para centros de coletas. Foi de
 
 ##  💻 Tecnologias Utilizadas 
 
-O projeto foi desenvolvido com as seguintes tecnológias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
